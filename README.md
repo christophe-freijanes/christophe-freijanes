@@ -1,7 +1,5 @@
  ## GitHub Stats
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=christophe-freijanes&show_icons=true)
- ## Random Joke Generator
- ![Jokes Card](https://readme-jokes.vercel.app/api)
  ### Profile View Counter
  ![Profile View Counter](https://komarev.com/ghpvc/?username=christophe-freijanes)
  ### Repository View Counter - HITS
