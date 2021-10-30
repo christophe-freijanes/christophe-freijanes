@@ -27,3 +27,5 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophe-freijanes)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/projetsdevops/shared_invite/zt-xer2f71v-43VbvHq4Uv5_SudUIreEWA)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophe.freijanes@gmail.com?subjects=[Gitub-Contact])
+#
+![CV](https://i.ibb.co/qNQS3w4/CV.png)
