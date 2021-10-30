@@ -25,6 +25,7 @@
 ![](https://komarev.com/ghpvc/?username=christophe-freijanes&color=blueviolet&style=flat-square)
 #
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3lXfg1Z)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://bit.ly/2ZatbJa)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://bit.ly/3jQrlVe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophe.freijanes@gmail.com?subjects=[Gitub-Contact])
 #
