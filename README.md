@@ -19,14 +19,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 #
-![GitHub watchers](https://img.shields.io/github/watchers/christophe-freijanes/christophe-freijanes?color=brightgreen&style=flat-square) 
-![GitHub forks](https://img.shields.io/github/forks/christophe-freijanes/christophe-freijanes?color=blue&style=flat-square) 
-![GitHub followers](https://img.shields.io/github/followers/christophe-freijanes?color=red&style=flat-square)
-![](https://komarev.com/ghpvc/?username=christophe-freijanes&color=blueviolet&style=flat-square)
-#
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3lXfg1Z)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://bit.ly/2ZatbJa)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://bit.ly/3jQrlVe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophe.freijanes@gmail.com?subjects=[Gitub-Contact])
 #
 ![CV](https://bit.ly/3nBxZQ0)
+#
+![GitHub watchers](https://img.shields.io/github/watchers/christophe-freijanes/christophe-freijanes?color=brightgreen&style=flat-square) 
+![GitHub forks](https://img.shields.io/github/forks/christophe-freijanes/christophe-freijanes?color=blue&style=flat-square) 
+![GitHub followers](https://img.shields.io/github/followers/christophe-freijanes?color=red&style=flat-square)
+![](https://komarev.com/ghpvc/?username=christophe-freijanes&color=blueviolet&style=flat-square)
