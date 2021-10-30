@@ -1,6 +1,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=christophe-freijanes&show_icons=true&theme=dark)
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophe-freijanes&layout=compact&theme=dark)](https://github.com/christophe-freijanes/christophe-freijanes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophe-freijanes&layout=compact&theme=dark)
 #
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/christophe-freijanes/scripts/tree/scripts/linux)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
