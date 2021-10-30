@@ -23,6 +23,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3lXfg1Z)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://bit.ly/3jQrlVe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophe.freijanes@gmail.com?subjects=[Gitub-Contact])
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://github.com/christophe-freijanes.private.atom?token=AOHM7YMQC27PLTZN4VLEXZF7RFNY4)
 #
 ![GitHub watchers](https://img.shields.io/github/watchers/christophe-freijanes/christophe-freijanes?color=brightgreen&style=flat-square) 
 ![GitHub forks](https://img.shields.io/github/forks/christophe-freijanes/christophe-freijanes?color=blue&style=flat-square) 
