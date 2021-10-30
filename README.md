@@ -2,7 +2,6 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophe-freijanes&layout=compact&theme=dark)](https://github.com/christophe-freijanes/christophe-freijanes)
 #
-![GitHub top language](https://img.shields.io/github/languages/top/christophe-freijanes/christophe-freijanes?color=darkblue&style=flat-square) 
 ![GitHub watchers](https://img.shields.io/github/watchers/christophe-freijanes/christophe-freijanes?color=brightgreen&style=flat-square) 
 ![GitHub forks](https://img.shields.io/github/forks/christophe-freijanes/christophe-freijanes?color=blue&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/christophe-freijanes?color=red&style=flat-square)
