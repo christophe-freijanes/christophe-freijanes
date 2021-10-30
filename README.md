@@ -28,4 +28,4 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://bit.ly/3jQrlVe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophe.freijanes@gmail.com?subjects=[Gitub-Contact])
 #
-![CV](https://i.ibb.co/qNQS3w4/CV.png)
+![CV](https://bit.ly/3nBxZQ0)
