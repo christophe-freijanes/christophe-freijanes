@@ -7,4 +7,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/christophe-freijanes?color=red&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=christophe-freijanes&color=blueviolet&style=flat-square)
 #
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/christophe-freijanes/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/christophe-freijanes/)
