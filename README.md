@@ -14,7 +14,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christophe-freijanes/formation/tree/formation/DevOps/git)
 [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://github.com/christophe-freijanes/formation/tree/formation/DevOps/vagrant)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/christophe-freijanes/formation/tree/formation/DevOps/docker)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)(https://github.com/christophe-freijanes/formation/tree/formation/DevOps/kubernetes)
 [![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/christophe-freijanes/scripts/tree/scripts/windows)
 [![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://github.com/christophe-freijanes/scripts/tree/scripts/windows)
 [![Cmd](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/christophe-freijanes/scripts/tree/scripts/windows)
